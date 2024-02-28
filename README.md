@@ -1,4 +1,10 @@
 ## Propostio do código
+Irei discutir todas as particularidades sobre a aplicação pratica desse código em um post do medium.
 
-Abro melhor todo o dialogo que tive na criação desse repositorio em um post do medium, porém um ponto de atenção a deixar para todos, a roleta que estava usando é uma da BETWAY que é automatica
-e lembrar de alterar as dimensoes do OPENCV baseado nas dimensões da tela do seu computador, não fiz o códgio tão livre assim a ponto de se comportar em todas as telas
+### Implementação em seu computador
+Caso tenha interesse em reproduzir esse estudo tenho algumas recomendações: 
+  - Use uma roleta automatica, que para testar não exija que tenha que colocar apostas (https://betway.com/pt/casino/game/auto-roulette) usei esse aqui
+  - redimensionar as configurações da tela, até porque fiz a orientações de px baseada na minha tela, não genralizei
+  - E se for apostar saiba dos riscos, isso é tudo para provar que a casa sempre ganha
+
+
